@@ -3,6 +3,8 @@ A_Resource_Whose_Name = properties_en_US_boyer
 version.designation = "JMB"
 version.translator = "John Michael Boyer"
 
+version.notice1 = ""
+
 version.copyright1 = "Copyright © 2015 by John Michael Boyer"
 version.copyright2 = "Used by permission."
 version.copyright3 = ""
