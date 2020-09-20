@@ -32,6 +32,8 @@ meVE.Stichera04.mode = misc_en_US_boyer.Mode6
 meVE.Stichera04.melody = he.a.m6_en_US_boyer.OlinApothemenoi.name
 meVE.Stichera04.text = "Today with a single mind, * the all-wise God-bearing Fathers * did proclaim the Trinity * Uncreated fittingly to be one Lord God; * and to all, showed the one * nature’s singularity, * the simplicity of energy, the common single will, * and making the Trinity known through all * as endless and beginningless * existing as one God eternally; * thus we sing our praise of them all as imitators of the Twelve, * and all as teachers throughout the world * for the Gospel of the Church."
 
+meVE.MM.Stichera123as567.text = properties_en_US_boyer.media.key
+
 meVE.SticGlory.mode = misc_en_US_boyer.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
@@ -429,7 +431,7 @@ meMA.Lauds3.mode = misc_en_US_boyer.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_boyer.OlinApothemenoi.name
 meMA.Lauds3.text = ""
 
-meMA.Lauds345.text = "" // for media
+meMA.MM.Lauds123as345.text = properties_en_US_boyer.media.key
 
 meMA.LaudsGlory.mode = misc_en_US_boyer.Mode8
 meMA.LaudsGlory.melody = ""
