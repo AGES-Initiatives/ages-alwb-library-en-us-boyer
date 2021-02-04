@@ -18,96 +18,118 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_boyer.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_boyer.TonOuranionTagmaton.incipit
+meVE.Stichera01.incipit = ""
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_boyer.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_boyer.TonOuranionTagmaton.incipit
+meVE.Stichera02.incipit = ""
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_boyer.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_boyer.TonOuranionTagmaton.incipit
+meVE.Stichera03.incipit = ""
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = //poets_en_US_boyer.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_boyer.Mode6
 meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_boyer.Mode6
 meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.incipit = ""
 meVE.SticTheotokion.text = //oc.m6.d1_en_US_boyer.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = //poets_en_US_boyer.Germanou
 meVE.Lity1.mode = misc_en_US_boyer.Mode1
 meVE.Lity1.melody = ""
+meVE.Lity1.incipit = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_boyer.Mode1
 meVE.Lity2.melody = ""
+meVE.Lity2.incipit = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = //poets_en_US_boyer.Germanou
 meVE.Lity3.mode = misc_en_US_boyer.Mode1
 meVE.Lity3.melody = ""
+meVE.Lity3.incipit = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = //poets_en_US_boyer.IoannouMonachou
 meVE.Lity4.mode = misc_en_US_boyer.Mode2
 meVE.Lity4.melody = ""
+meVE.Lity4.incipit = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.poet = //poets_en_US_boyer.IoannouMonachou
 meVE.Lity5.mode = misc_en_US_boyer.Mode2
 meVE.Lity5.melody = ""
+meVE.Lity5.incipit = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.poet = //poets_en_US_boyer.Arseniou
 meVE.LityGlory.mode = misc_en_US_boyer.Mode4
 meVE.LityGlory.melody = ""
+meVE.LityGlory.incipit = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_boyer.Mode4
 meVE.LityBoth.melody = ""
+meVE.LityBoth.incipit = ""
 meVE.LityBoth.text = //oc.m4.d2_en_US_boyer.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_boyer.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_boyer.OExYpsistouKlitheis.incipit
+meVE.Aposticha1.incipit = ""
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_boyer.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_boyer.OExYpsistouKlitheis.incipit
+meVE.Aposticha2.incipit = ""
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_boyer.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_boyer.OExYpsistouKlitheis.incipit
+meVE.Aposticha3.incipit = ""
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_boyer.Mode6
 meVE.AposGlory.melody = ""
+meVE.AposGlory.incipit = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_boyer.Mode6
 meVE.AposTheotokion.melody = //he.o_en_US_boyer.TheotokeSyEi.name
+meVE.AposTheotokion.incipit = ""
 meVE.AposTheotokion.text = //he.o_en_US_boyer.TheotokeSyEiProfitou.text
 
 meVE.Apolytikion1.mode = misc_en_US_boyer.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_boyer.TachyProkatalave.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_boyer.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_boyer.TonTafonSouSotir.incipit
+meMA.Kathisma11.incipit = ""
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_boyer.Mode1
 meMA.Kathisma1T.melody = he.a.m1_en_US_boyer.TonTafonSouSotir.incipit
+meMA.Kathisma1T.incipit = ""
 meMA.Kathisma1T.text = //oc.m1.d1_en_US_boyer.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = misc_en_US_boyer.Mode1
 meMA.Kathisma21.melody = he.a.m1_en_US_boyer.TonTafonSouSotir.incipit
+meMA.Kathisma21.incipit = ""
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_boyer.Mode1
 meMA.Kathisma2T.melody = he.a.m1_en_US_boyer.TonTafonSouSotir.incipit
+meMA.Kathisma2T.incipit = ""
 meMA.Kathisma2T.text = //oc.m1.d1_en_US_boyer.ocMA.Kathisma23.text
 
 meR01 = ""
@@ -123,21 +145,25 @@ meMA.C1.verse = //prayers_en_US_boyer.verse_Prophet.text
 meMA.Ode1C11.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode1C11.melody = he.h.m2_en_US_boyer.AsomenToKyrio.incipit
+meMA.Ode1C11.incipit = "Chosen to sing the praises"
 meMA.Ode1C11.text = "Chosen to sing the praises * of the fire-breathing power * of Elias’s miracles, * fittingly we have called to us * power such that blazes forth * in flame-formed and august tongues of the Spirit’s fire."
 
 meMA.Ode1C12.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_boyer.AsomenToKyrio.incipit
+meMA.Ode1C12.incipit = "God-bearing Saint, be gracious, *"
 meMA.Ode1C12.text = "God-bearing Saint, be gracious, * and by force of the Spirit * which abides in you open up my narrow, ill-sounding feeble tongue, * and make it distinct and clear * to sing the praise with great voice of all your wondrous deeds."
 
 meMA.Ode1C13.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_boyer.AsomenToKyrio.incipit
+meMA.Ode1C13.incipit = "Gifts that surpass all nature"
 meMA.Ode1C13.text = "Gifts that surpass all nature * you give to those who honor * your commandments, O Word of God, * and through the Holy Spirit’s pow’r, * make the gates of rain obey, * accomplishing the word that has been made strong in you. "
 
 meMA.Ode1C1T.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_boyer.AsomenToKyrio.incipit
+meMA.Ode1C1T.incipit = "Only most-blessed Virgin, * O"
 meMA.Ode1C1T.text = "Only most-blessed Virgin, * O pure and godlike treasure * of all purity, purify * me of the passions’ impure slime, * asking pardon of my faults, * restoring thus my blemished soul to its former state."
 
 meMA.C2.title = //titles_en_US_boyer.KanonBTouProfitou
@@ -146,193 +172,232 @@ meMA.C2.verse = //prayers_en_US_boyer.verse_Prophet.text
 meMA.Ode1C21.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_boyer.ArmatilatinFarao.incipit
+meMA.Ode1C21.incipit = ""
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode1C22.melody = he.h.m8_en_US_boyer.ArmatilatinFarao.incipit
+meMA.Ode1C22.incipit = ""
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode1C23.melody = he.h.m8_en_US_boyer.ArmatilatinFarao.incipit
+meMA.Ode1C23.incipit = ""
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = misc_en_US_boyer.Ode1
 meMA.Ode1C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_boyer.ArmatilatinFarao.incipit
+meMA.Ode1C2T.incipit = ""
 meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode3C11.melody = he.h.m2_en_US_boyer.EnPetraMeTisPisteos.incipit
+meMA.Ode3C11.incipit = ""
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode3C12.melody = he.h.m2_en_US_boyer.EnPetraMeTisPisteos.incipit
+meMA.Ode3C12.incipit = ""
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode3C13.melody = he.h.m2_en_US_boyer.EnPetraMeTisPisteos.incipit
+meMA.Ode3C13.incipit = ""
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode3C1T.melody = he.h.m2_en_US_boyer.EnPetraMeTisPisteos.incipit
+meMA.Ode3C1T.incipit = ""
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode3C21.melody = he.h.m8_en_US_boyer.OuraniasApsidos.incipit
+meMA.Ode3C21.incipit = ""
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode3C22.melody = he.h.m8_en_US_boyer.OuraniasApsidos.incipit
+meMA.Ode3C22.incipit = ""
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode3C23.melody = he.h.m8_en_US_boyer.OuraniasApsidos.incipit
+meMA.Ode3C23.incipit = ""
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = misc_en_US_boyer.Ode3
 meMA.Ode3C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode3C2T.melody = he.h.m8_en_US_boyer.OuraniasApsidos.incipit
+meMA.Ode3C2T.incipit = ""
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_boyer.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_boyer.TinSofianKaiLogon.incipit
+meMA.Ode3Kathisma1.incipit = ""
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_boyer.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_boyer.TinSofianKaiLogon.incipit
+meMA.Ode3KathismaT.incipit = ""
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode4C11.melody = he.h.m2_en_US_boyer.EisakikoaKyrieTinAkoin.incipit
+meMA.Ode4C11.incipit = ""
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode4C12.melody = he.h.m2_en_US_boyer.EisakikoaKyrieTinAkoin.incipit
+meMA.Ode4C12.incipit = ""
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_boyer.EisakikoaKyrieTinAkoin.incipit
+meMA.Ode4C13.incipit = ""
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C1T.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode4C1T.melody = he.h.m2_en_US_boyer.EisakikoaKyrieTinAkoin.incipit
+meMA.Ode4C1T.incipit = ""
 meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode4C21.melody = he.h.m8_en_US_boyer.SyMouIschys.incipit
+meMA.Ode4C21.incipit = "God set aright * and"
 meMA.Ode4C21.text = "God set aright * and redirected your fiery zeal, * and he sent you * to nourish a widow, you who had of old * at a woman’s threat * run away in exile, Elias, Prophet inspired by God. * And so I now implore you to give nourishment also * to my hungry soul with gifts of grace divine."
 
 meMA.Ode4C22.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode4C22.melody = he.h.m8_en_US_boyer.SyMouIschys.incipit
+meMA.Ode4C22.incipit = "Fierce clouds of sins *"
 meMA.Ode4C22.text = "Fierce clouds of sins * cover me, swells of life buffet me * and the spirits * of evil blow dreadfully against my soul: * I am lost at sea. * O Prophet Elias, who proclaim God and his providence, * become for me a pilot, being with me, and guide me * from the storm to the port of salvation’s shores."
 
 meMA.Ode4C23.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode4C23.melody = he.h.m8_en_US_boyer.SyMouIschys.incipit
+meMA.Ode4C23.incipit = "Grant strength of soul, *"
 meMA.Ode4C23.text = "Grant strength of soul, * grant strength of body to me as well, * by entreating * Christ the Lord of glory who by divine grace * heals ev’ry disease, * most blessed Elias; and grant me safely to hasten through * the stumbling blocks of this life * without suffering trauma * for I place you out front as my champion."
 
 meMA.Ode4C2T.ode = misc_en_US_boyer.Ode4
 meMA.Ode4C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode4C2T.melody = he.h.m8_en_US_boyer.SyMouIschys.incipit
+meMA.Ode4C2T.incipit = "All-blameless Maid, * with all"
 meMA.Ode4C2T.text = "All-blameless Maid, * with all the Powers of heav’n above, * all the Prophets, * Athletes, and Apostles, and all Holy Ones, * intercede that I, * who have greatly sinned, may be granted grace and deliverance, * and on that dread impending * day of Christ’s righteous judgment, * that I not be condemned unto punishment."
 
 meMA.Ode5C11.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode5C11.melody = he.h.m2_en_US_boyer.OTouFotosChorigos.incipit
+meMA.Ode5C11.incipit = ""
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_boyer.OTouFotosChorigos.incipit
+meMA.Ode5C12.incipit = ""
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode5C13.melody = he.h.m2_en_US_boyer.OTouFotosChorigos.incipit
+meMA.Ode5C13.incipit = ""
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode5C1T.melody = he.h.m2_en_US_boyer.OTouFotosChorigos.incipit
+meMA.Ode5C1T.incipit = ""
 meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode5C21.melody = he.h.m8_en_US_boyer.InaTiMeAposo.incipit
+meMA.Ode5C21.incipit = ""
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode5C22.melody = he.h.m8_en_US_boyer.InaTiMeAposo.incipit
+meMA.Ode5C22.incipit = ""
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode5C23.melody = he.h.m8_en_US_boyer.InaTiMeAposo.incipit
+meMA.Ode5C23.incipit = ""
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = misc_en_US_boyer.Ode5
 meMA.Ode5C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode5C2T.melody = he.h.m8_en_US_boyer.InaTiMeAposo.incipit
+meMA.Ode5C2T.incipit = ""
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode6C11.melody = he.h.m2_en_US_boyer.AvyssosAmartimaton.incipit
+meMA.Ode6C11.incipit = ""
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_boyer.AvyssosAmartimaton.incipit
+meMA.Ode6C12.incipit = ""
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode6C13.melody = he.h.m2_en_US_boyer.AvyssosAmartimaton.incipit
+meMA.Ode6C13.incipit = ""
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_boyer.AvyssosAmartimaton.incipit
+meMA.Ode6C1T.incipit = ""
 meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode6C21.melody = he.h.m8_en_US_boyer.IlasthitiMoiSotir.incipit
+meMA.Ode6C21.incipit = ""
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode6C22.melody = he.h.m8_en_US_boyer.IlasthitiMoiSotir.incipit
+meMA.Ode6C22.incipit = ""
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode6C23.melody = he.h.m8_en_US_boyer.IlasthitiMoiSotir.incipit
+meMA.Ode6C23.incipit = ""
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = misc_en_US_boyer.Ode6
 meMA.Ode6C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode6C2T.melody = he.h.m8_en_US_boyer.IlasthitiMoiSotir.incipit
+meMA.Ode6C2T.incipit = ""
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_boyer.Mode2
 meMA.Kontakion1.melody = misc_en_US_boyer.Automelon
+meMA.Kontakion1.incipit = ""
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -340,160 +405,193 @@ meMA.Oikos1.text = ""
 meMA.Ode7C11.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_boyer.VatosEnOrei.incipit
+meMA.Ode7C11.incipit = "Clothed with the power that"
 meMA.Ode7C11.text = "Clothed with the power that wondrously * was formed for you from God above, O most inspired, * with one meal only to sustain your life, * you ended your pilgrimage of forty days. * And at Horeb the mountain * you danced and you sang unto the gentle breeze: * \"Almighty God of our Fathers, ever blessed are You!\""
 
 meMA.Ode7C12.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_boyer.VatosEnOrei.incipit
+meMA.Ode7C12.incipit = "Not a tempestuous blast of"
 meMA.Ode7C12.text = "Not a tempestuous blast of wind, * neither a mighty earthquake, nor a fearsome fire: * a mild and gentle blowing breeze instead * in itself revealed the Lord to you, Elias, * O Prophet most inspired * And so to our gentle Jesus we now sing: \"Almighty God of our Fathers, ever blessed are You!\""
 
 meMA.Ode7C13.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_US_boyer.VatosEnOrei.incipit
+meMA.Ode7C13.incipit = "Like the great Moses of"
 meMA.Ode7C13.text = "Like the great Moses of old, * you were also found worthy to behold the sight of God, * and worthy too of divine prophecy. * You anointed kings and prophets by divine command, * and as you contemplated * the glory of Christ on Tabor, you cried out: * Almighty God of our Fathers, most blessed are you! "
 
 meMA.Ode7C1T.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode7C1T.melody = he.h.m2_en_US_boyer.VatosEnOrei.incipit
+meMA.Ode7C1T.incipit = "The all-good Logos of God"
 meMA.Ode7C1T.text = "The all-good Logos of God the Father * supernaturally dwelt inside your womb, * O Maid Most Pure, and he refashioned us * and made us all worthy of the life of Paradise. * Therefore all we believers, * revering you, Mother of God, raise the song: * Almighty God of our Fathers, ever blessed are you!"
 
 meMA.Ode7C21.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode7C21.melody = he.h.m8_en_US_boyer.TheouSynkatavasin.incipit
+meMA.Ode7C21.incipit = ""
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode7C22.melody = he.h.m8_en_US_boyer.TheouSynkatavasin.incipit
+meMA.Ode7C22.incipit = ""
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode7C23.melody = he.h.m8_en_US_boyer.TheouSynkatavasin.incipit
+meMA.Ode7C23.incipit = ""
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C2T.ode = misc_en_US_boyer.Ode7
 meMA.Ode7C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode7C2T.melody = he.h.m8_en_US_boyer.TheouSynkatavasin.incipit
+meMA.Ode7C2T.incipit = ""
 meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode8C11.melody = he.h.m2_en_US_boyer.EfrixePaidonEvagon.incipit
+meMA.Ode8C11.incipit = ""
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_US_boyer.EfrixePaidonEvagon.incipit
+meMA.Ode8C12.incipit = ""
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C1T.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode8C1T.melody = he.h.m2_en_US_boyer.EfrixePaidonEvagon.incipit
+meMA.Ode8C1T.incipit = ""
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode8C21.melody = he.h.m8_en_US_boyer.EptaplasiosKaminon.incipit
+meMA.Ode8C21.incipit = ""
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode8C22.melody = he.h.m8_en_US_boyer.EptaplasiosKaminon.incipit
+meMA.Ode8C22.incipit = ""
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode8C23.melody = he.h.m8_en_US_boyer.EptaplasiosKaminon.incipit
+meMA.Ode8C23.incipit = ""
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C2Tr.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C2Tr.mode = misc_en_US_boyer.Mode8
 meMA.Ode8C2Tr.melody = he.h.m8_en_US_boyer.EptaplasiosKaminon.incipit
+meMA.Ode8C2Tr.incipit = ""
 meMA.Ode8C2Tr.text = ""
 
 meMA.Ode8C2T.ode = misc_en_US_boyer.Ode8
 meMA.Ode8C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode8C2T.melody = he.h.m8_en_US_boyer.EptaplasiosKaminon.incipit
+meMA.Ode8C2T.incipit = ""
 meMA.Ode8C2T.text = ""
 
 meMA.Ode9C11.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C11.mode = misc_en_US_boyer.Mode2
 meMA.Ode9C11.melody = he.h.m2_en_US_boyer.ITonProIliouFostira.incipit
+meMA.Ode9C11.incipit = ""
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C12.mode = misc_en_US_boyer.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_boyer.ITonProIliouFostira.incipit
+meMA.Ode9C12.incipit = ""
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C13.mode = misc_en_US_boyer.Mode2
 meMA.Ode9C13.melody = he.h.m2_en_US_boyer.ITonProIliouFostira.incipit
+meMA.Ode9C13.incipit = ""
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C1T.mode = misc_en_US_boyer.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_boyer.ITonProIliouFostira.incipit
+meMA.Ode9C1T.incipit = ""
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C21.mode = misc_en_US_boyer.Mode8
 meMA.Ode9C21.melody = he.h.m8_en_US_boyer.ExestiEpiTouto.incipit
+meMA.Ode9C21.incipit = "O Prophet, you were seen"
 meMA.Ode9C21.text = "O Prophet, you were seen worthy to see God * in a light breeze — as far as a mortal can — * having before * made your body light by ascetic life; * and therefore, I implore you that, * lightening the heaviness of my mind * by your own intercessions, * you now would shine divine beams * of true repentance and illumine me."
 
 meMA.Ode9C22.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C22.mode = misc_en_US_boyer.Mode8
 meMA.Ode9C22.melody = he.h.m8_en_US_boyer.ExestiEpiTouto.incipit
+meMA.Ode9C22.incipit = "Of old, you once divided"
 meMA.Ode9C22.text = "Of old, you once divided the Jordan’s streams * into two with your mantle by striking it, and crossed on foot, * so now also dry up, all-blessed one, * the streams of all my dreadful sins, * sending to my soul now and every day * repentant tears like storm-rain, * O God-proclaiming Prophet, * and granting me a torrent of delight. "
 
 meMA.Ode9C23.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C23.mode = misc_en_US_boyer.Mode8
 meMA.Ode9C23.melody = he.h.m8_en_US_boyer.ExestiEpiTouto.incipit
+meMA.Ode9C23.incipit = "From all the many stumbling"
 meMA.Ode9C23.text = "From all the many stumbling blocks in this life, * tribulations, temptations, and lawless foes, fleshly disease, * and ev’ry perversion of mind and soul, * and from eternal punishment * in Gehenna, rescue me by your prayers; * O glorious great Prophet, * and good loving protector, * for in affliction I cry out to you. "
 
 meMA.Ode9C24.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C24.mode = misc_en_US_boyer.Mode8
 meMA.Ode9C24.melody = he.h.m8_en_US_boyer.ExestiEpiTouto.incipit
+meMA.Ode9C24.incipit = "O glorious Elias, you were"
 meMA.Ode9C24.text = "O glorious Elias, you were snatched up * to the heights, while you left Elissaios that * which he had asked: * double your allotment of divine grace; * with him, forever supplicate * for our rulers victory from above * and mercy for offenses, * for they have been made wealthy * with you as their protector without shame."
 
 meMA.Ode9C2T.ode = misc_en_US_boyer.Ode9
 meMA.Ode9C2T.mode = misc_en_US_boyer.Mode8
 meMA.Ode9C2T.melody = he.h.m8_en_US_boyer.ExestiEpiTouto.incipit
+meMA.Ode9C2T.incipit = "As you, O Maid, are"
 meMA.Ode9C2T.text = "As you, O Maid, are loving, do not despise * all the cries of your servants, all blameless one, * but now entreat * earnestly the Maker of all, your Son, * to grant our rulers trophies of * victory from heaven, stoutness of soul, * forgiveness of offenses, and free participation * in God’s own Kingdom and its radiance."
 
 meMA.Exaposteilarion1.mode = misc_en_US_boyer.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_boyer.FosAnalloioton.incipit
+meMA.Exaposteilarion1.incipit = ""
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_boyer.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_boyer.FosAnalloioton.incipit
+meMA.ExapTheotokion.incipit = ""
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_boyer.Mode8
 meMA.Lauds1.melody = he.a.m8_en_US_boyer.TiYmasKalesomen.incipit
+meMA.Lauds1.incipit = ""
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_boyer.Mode8
 meMA.Lauds2.melody = he.a.m8_en_US_boyer.TiYmasKalesomen.incipit
+meMA.Lauds2.incipit = ""
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_boyer.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_boyer.TiYmasKalesomen.incipit
+meMA.Lauds3.incipit = ""
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_boyer.Mode8
 meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.incipit = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_boyer.Mode8
 meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.incipit = ""
 meMA.LaudsTheotokion.text = //oc.m8.d5_en_US_boyer.ocMA.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_boyer.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_boyer.media.key
@@ -505,50 +603,60 @@ meMegalynarion.text = ""
 alt1.meVE.Stichera04.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meVE.Stichera04.mode = misc_en_US_boyer.Mode1
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_boyer.TonOuranionTagmaton.incipit
+alt1.meVE.Stichera04.incipit = ""
 alt1.meVE.Stichera04.text = ""
 
 alt1.meVE.Stichera05.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meVE.Stichera05.mode = misc_en_US_boyer.Mode2
 alt1.meVE.Stichera05.melody = he.a.m2_en_US_boyer.PoioisEffimionStemmasin.incipit
+alt1.meVE.Stichera05.incipit = ""
 alt1.meVE.Stichera05.text = ""
 
 alt1.meVE.Stichera06.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meVE.Stichera06.mode = misc_en_US_boyer.Mode2
 alt1.meVE.Stichera06.melody = he.a.m2_en_US_boyer.PoioisEffimionStemmasin.incipit
+alt1.meVE.Stichera06.incipit = ""
 alt1.meVE.Stichera06.text = ""
 
 alt1.meVE.Stichera07.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meVE.Stichera07.mode = misc_en_US_boyer.Mode2
 alt1.meVE.Stichera07.melody = he.a.m2_en_US_boyer.PoioisEffimionStemmasin.incipit
+alt1.meVE.Stichera07.incipit = ""
 alt1.meVE.Stichera07.text = ""
 
 alt1.meVE.Stichera08.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meVE.Stichera08.mode = misc_en_US_boyer.Mode2
 alt1.meVE.Stichera08.melody = he.a.m2_en_US_boyer.PoioisEffimionStemmasin.incipit
+alt1.meVE.Stichera08.incipit = ""
 alt1.meVE.Stichera08.text = ""
 
 alt1.meMA.Kathisma22.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meMA.Kathisma22.mode = misc_en_US_boyer.Mode4
 alt1.meMA.Kathisma22.melody = he.a.m4_en_US_boyer.EpefanisSimeron.incipit
+alt1.meMA.Kathisma22.incipit = ""
 alt1.meMA.Kathisma22.text = ""
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_boyer.Mode4
 alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_boyer.EpefanisSimeron.incipit
+alt1.meMA.Kathisma2T.incipit = ""
 alt1.meMA.Kathisma2T.text = //me.m06.d14_en_US_boyer.meMA.Ode3KathismaT.text
 
 alt1.meMA.Kathisma31.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meMA.Kathisma31.mode = misc_en_US_boyer.Mode8
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_boyer.TinSofianKaiLogon.incipit
+alt1.meMA.Kathisma31.incipit = ""
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma32.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meMA.Kathisma32.mode = misc_en_US_boyer.Mode3
 alt1.meMA.Kathisma32.melody = he.a.m3_en_US_boyer.TinOraiotita.incipit
+alt1.meMA.Kathisma32.incipit = ""
 alt1.meMA.Kathisma32.text = ""
 
 alt1.meMA.Kathisma3T.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meMA.Kathisma3T.mode = misc_en_US_boyer.Mode3
 alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_boyer.TinOraiotita.incipit
+alt1.meMA.Kathisma3T.incipit = ""
 alt1.meMA.Kathisma3T.text = ""
 
 //Not in Menaion, optional Matins Gospel
@@ -556,15 +664,18 @@ alt1.meMA.MM.Prokeimenon.text = properties_en_US_boyer.media.key
 
 alt1.meMA.PostGospelGlory.mode = misc_en_US_boyer.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.incipit = ""
 alt1.meMA.PostGospelGlory.text = //ho.s03_en_US_boyer.hoMA.PostGospelProphet.text
 
 alt1.meMA.PostGospelBoth.mode = misc_en_US_boyer.Mode2
 alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.incipit = ""
 alt1.meMA.PostGospelBoth.text = //ho.s03_en_US_boyer.hoMA.PostGospelTheotokos.text
 
 alt1.meMA.PostGospelIdiomelon.poet = //poets_en_US_boyer.NikodimouAgioreitou
 alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_boyer.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.incipit = ""
 alt1.meMA.PostGospelIdiomelon.text = ""
 
 alt1.meMegalynarion.poet = //poets_en_US_boyer.NikodimouAgioreitou

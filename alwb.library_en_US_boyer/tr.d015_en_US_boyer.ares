@@ -15,18 +15,22 @@ trDismissal = //dismissals_en_US_boyer.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_boyer.Mode6
 trVE.Stichera01.melody = he.a.m6_en_US_boyer.OlinApothemenoi.incipit
+trVE.Stichera01.incipit = "When you are about to"
 trVE.Stichera01.text = "When you are about to come * to execute your just judgement, * O most just and righteous Judge, * seated on your holy and glorious great throne, * a great fiery river * will draw all of mortals * sore amazed before your judgement-seat at your divine decree; * and all of the Powers of Heaven’s hosts * will stand on either side of you * and the human race will be judged in fear * according to their deeds. * Therefore spare us, we entreat you, Christ, with faith: * and count us worthy of destiny * reserved for those who are saved."
 
 trVE.Stichera02.mode = misc_en_US_boyer.Mode6
 trVE.Stichera02.melody = he.a.m6_en_US_boyer.OlinApothemenoi.incipit
+trVE.Stichera02.incipit = "The books will be opened"
 trVE.Stichera02.text = "The books will be opened up * and all the deeds of us mortals * will be read out and revealed * before your unbearable judgement-seat, O Christ; * and the whole valley will * echo with the fearful sound * of dread weeping, as it watches all of those that sinned in life * weep aloud in vain, being sent away * by your just judgment, righteous Judge, * to eternal torments and punishment. * Therefore, we beseech you, * O loving and compassionate good Lord: * spare us who praise and sing hymns to you, * the only most merciful."
 
 trVE.Stichera03.mode = misc_en_US_boyer.Mode6
 trVE.Stichera03.melody = he.a.m6_en_US_boyer.OlinApothemenoi.incipit
+trVE.Stichera03.incipit = "The trumpets will sound aloud"
 trVE.Stichera03.text = "The trumpets will sound aloud * and all the tombs will be emptied, * and all of humanity * with great fear and trembling will rise up to be judged. * Those that did good deeds in life * will rejoice with great joy, * as they wait upon their due reward; * but those who sinned in life * will lament with wailing and trembling fear * as they are sent to punishment * and are parted from all the chosen ones. * Pity us, O Christ, Lord of glory, in your goodness and great love, * and count us worthy to take our place * with those who have loved you in faith."
 
 trVE.Stichera04.mode = misc_en_US_boyer.Mode6
 trVE.Stichera04.melody = he.a.m6_en_US_boyer.OlinApothemenoi.incipit
+trVE.Stichera04.incipit = "I lament and weep when"
 trVE.Stichera04.text = "I lament and weep when I * consider all that awaits me: * the eternal fiery blaze, * outer darkness, gloom and shades of the nether world, * the dread worm that crawls below * and the gnashing of teeth, * the unceasing anguish that befalls all those who in this life * have sinned without measure, offending you, * arousing you to angry wrath, * by their evil thoughts, O Supremely Good. * Of whom I am first, * desperate wretch and fearful sinner that I am. * But save my soul, in your mercy, Judge, * for you are compassionate."
 
 trVE.MM.Stichera123as567.text = properties_en_US_boyer.media.key
