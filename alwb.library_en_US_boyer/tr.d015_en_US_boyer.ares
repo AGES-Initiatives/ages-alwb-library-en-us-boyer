@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = tr.d015_en_US_boyer
 
-trCommemoration.text = "Meatfare Sunday" //full title of day
-trShortCommemoration1.text = "Meatfare"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Meatfare Sunday" //full title of day
+trDA.commemoration.short = "Meatfare"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
-trDismissal = //dismissals_en_US_boyer.dis00.resurrection
+trDA.dismissal = //dismissals_en_US_boyer.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_boyer.Mode6
 trVE.Stichera01.melody = he.a.m6_en_US_boyer.OlinApothemenoi.incipit
