@@ -1,0 +1,78 @@
+A_Resource_Whose_Name = me.m11.d16_en_US_boyer
+
+
+meMA.Ode1C11.ode = miscellanea_en_US_boyer.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_boyer.heHE.AnoixoToStomaMou.greekname
+meMA.Ode1C11.melody = he.h.m4_en_US_boyer.heHE.AnoixoToStomaMou.name
+meMA.Ode1C11.incipit = "Impart to me…"
+meMA.Ode1C11.text = "Impart to me richly the most divine grace that abides in you, * O Matthew all-glorious and working servant of Christ, * that I may cry out, * proclaiming in bright splendor, * and joyfully sing of your wondrous and godly deeds."
+
+meMA.Ode1C12.ode = miscellanea_en_US_boyer.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_boyer.heHE.AnoixoToStomaMou.name
+meMA.Ode1C12.incipit = "Apostle of God…"
+meMA.Ode1C12.text = "Apostle of God, when you had heard the voice of the Word made flesh, * you utterly cast aside the earthly tumult of life, * and were shown to be a steward of divine grace, * a herald inspired by God, and greatly blest by Him."
+
+meMA.Ode1C13.ode = miscellanea_en_US_boyer.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_boyer.heHE.AnoixoToStomaMou.name
+meMA.Ode1C13.incipit = "Becoming eye-witness…"
+meMA.Ode1C13.text = "Becoming eye-witness and being distinguished as laborer * of Christ the true Word of the pre-eternal Father and God, * thus you passed through all the world and ev’ry nation, * proclaiming the Gospel of His glorious coming forth."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_boyer.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_boyer.heHE.AnoixoToStomaMou.name
+meMA.Ode1C1T.incipit = "You spread…"
+meMA.Ode1C1T.text = "You spread the good tidings of the Lord’s destruction of death by death, * corruption’s abolishment, and the appearance of life, * wise Evangelist, for He yet without limits * has dwelt in the Virgin’s womb, * forming the world anew."
+
+meMA.Ode3C11.ode = miscellanea_en_US_boyer.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_boyer.heHE.TousSousYmnologous.greekname
+meMA.Ode3C11.melody = he.h.m4_en_US_boyer.heHE.TousSousYmnologous.name
+meMA.Ode3C11.incipit = "As beacons of life…"
+meMA.Ode3C11.text = "As beacons of life you have revealed Your Apostles, O Master, Word of God, * to drive away the darkness and * the gloom of all ungodliness, * and with Your divine glory’s light, * illuminating the world entire."
+
+meMA.Ode3C12.ode = miscellanea_en_US_boyer.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_boyer.heHE.TousSousYmnologous.name
+meMA.Ode3C12.incipit = "You armed…"
+meMA.Ode3C12.text = "You armed the most excellent Saint Matthew, O Savior, with Your armor’s array, * thus making him more mighty than * the tyrants, and revealed him as * destroyer of the idols’ fraud, * Master and Lover of humankind."
+
+meMA.Ode3C13.ode = miscellanea_en_US_boyer.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_boyer.heHE.TousSousYmnologous.name
+meMA.Ode3C13.incipit = "The sound…"
+meMA.Ode3C13.text = "The sound of your fiery tongue, burnt up all the altars of demons and false gods, * O Matthew, most inspired by God, * the Advocate’s own instrument, * through whom Christ is proclaimed to all * as Word of God in hypostasis."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_boyer.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_boyer.heHE.TousSousYmnologous.name
+meMA.Ode3C1T.incipit = "The wise Matthew’s…"
+meMA.Ode3C1T.text = "The wise Matthew’s trumpet of theology sounds forth with might to all the world, * enlightening the peoples with the brightness of the Trinity * and, past all thought, the Word of God’s * taking on flesh from you, Spotless one."
+
+meMA.Ode9C11.ode = miscellanea_en_US_boyer.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_boyer.heHE.ApasGigenis.greekname
+meMA.Ode9C11.melody = he.h.m4_en_US_boyer.heHE.ApasGigenis.name
+meMA.Ode9C11.incipit = "You received…"
+meMA.Ode9C11.text = "You received, O Saint, the all-divine diadem of comely beauty of mind * and by the Almighty’s hand * have been adorned with the most majestic crown * of heaven’s Kingdom and, wise Matthew, you shine forth with light * as you stand now * at the throne of Christ the Lord, * with the ranks of the Angels, all-blessed one."
+
+meMA.Ode9C12.ode = miscellanea_en_US_boyer.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_boyer.heHE.ApasGigenis.name
+meMA.Ode9C12.incipit = "Preaching in the world…"
+meMA.Ode9C12.text = "Preaching in the world * the Gospel of life and of the visitation of God, * Herald of the living God, * most fitting, you attained to the Tree of Life * and did not have your mind corrupted or destroyed by the tree * of knowledge, * but remained unshakable * as a steadfast foundation of all the Church."
+
+meMA.Ode9C13.ode = miscellanea_en_US_boyer.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_boyer.heHE.ApasGigenis.name
+meMA.Ode9C13.incipit = "You adorned the Church…"
+meMA.Ode9C13.text = "You adorned the Church, * the God-chosen Bride of Christ, with your own Gospel, O Saint, * as it were a diadem * in godly manner, Apostle blest by God; * she thus in splendor celebrates your divine memory: * intercede now, that she be delivered from * every danger and evil calamity."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_boyer.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_boyer.misc.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_boyer.heHE.ApasGigenis.name
+meMA.Ode9C1T.incipit = "Not departing…"
+meMA.Ode9C1T.text = "Not departing from * the bosom of God the Father unoriginate * the Word unoriginate * became incarnate of you, O all-hymned Maid * as Matthew in the Gospel writes, God was incarnate of you, * wholly clothing * himself with humanity * taking on and accepting its properties."
+
